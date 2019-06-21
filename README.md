@@ -1,5 +1,5 @@
 # Cab_Fare_Prediction
-The aim of this designed system is to predict the fare amount for a cab ride in the city based on the diffrent parameters.
+The aim of this designed system is to predict the fare amount for a cab ride in the city based on the different parameters.
 
 <---------- Problem Statement ---------->
 
